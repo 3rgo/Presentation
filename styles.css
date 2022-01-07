@@ -6,7 +6,7 @@ body {
     max-height: 100vh;
     padding: 0.4rem;
 
-    background: rgb(22,70,80,0.7);
+    background: rgba(5, 102, 81, 0.7);
 
     font-family : 'Economica', sans-serif;
     color: #222222;
